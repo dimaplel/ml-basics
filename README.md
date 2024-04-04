@@ -2,7 +2,7 @@
 ### Currently present
 
 - [x] Lab 1
-- [ ] Lab 2
+- [x] Lab 2
 - [ ] Lab 3
 
 **Мешканцям мого курсу - не вортуйте лаби буб ласка, інакше буде terrible violence**
